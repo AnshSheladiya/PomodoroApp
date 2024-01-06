@@ -1,4 +1,4 @@
-package com.pomodoroapp
+package com.pomodorofocustimerapp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
